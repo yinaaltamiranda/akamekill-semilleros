@@ -1,10 +1,10 @@
 {
   "posts": [
-    { "id": 1, "gina": "Post 1" },
-    { "id": 2, "carolina": "Post 2" },
-    { "id": 3, "juan": "Post 3" },
-    { "id": 4, "pedro": "Post 4" },
-    { "id": 5, "dayana": "Post 5" }
+    { "id": 1, "grupo regional de investigacion participativa de los pequeños productores de la costa atlantica": "Post 1" },
+    { "id": 2, "grupo de investigacion en cultivos tropicales de clima calido": "Post 2" },
+    { "id": 3, "grupo de aguas, quimica aplicada y ambiental": "Post 3" },
+    { "id": 4, "grupo de fisicoquimica organica": "Post 4" },
+    { "id": 5, "grupo de quimica computacional": "Post 5" }
   ],
   "profile": {
     "name": "typicode"
