@@ -1,8 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" 
-    }
-   ],
+    { "id": 1, "gina": "Post 1" },
+    { "id": 2, "carolina": "Post 2" },
+    { "id": 3, "juan": "Post 3" },
+    { "id": 4, "pedro": "Post 4" },
+    { "id": 5, "dayana": "Post 5" }
+  ],
   "profile": {
     "name": "typicode"
   }
